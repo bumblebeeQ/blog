@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/bumblebeeQ/blog/'
+baseURL = 'https://bumblebeeqe.github.io/'
 languageCode = 'zh-cn'
 title = 'ZQ的blog'
 theme = 'pehtheme-hugo'
