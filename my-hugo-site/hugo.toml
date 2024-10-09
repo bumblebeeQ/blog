@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://github.com/bumblebeeQ/blog/'
 languageCode = 'zh-cn'
 title = 'ZQ的blog'
 theme = 'pehtheme-hugo'
